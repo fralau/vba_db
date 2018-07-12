@@ -16,6 +16,8 @@ There are actually things that you can do, with this set of modules:
 ## How to Install
 
 Nothing fancy here:
-- Download the modules (`Database.bas`, `Parameter.bas`and `RegExp2.bas`
-- From the VBA editor, import them in your Access application
-- Set up the libraries you need (they are indicated in the header of your module).
+1. Clone the repository or download the modules (`Database.bas`, `Parameter.bas`and `RegExp2.bas`)
+2. In Ms-Access, open the Visual Basic Editor (Alt-F11)
+3. From File menu, choose Import and select the file you want import
+4. Set up the libraries you need (they are indicated in the header of your module): from the Tools menu, choose References to display the
+   References dialog box (see more information on [Microsoft Dev Center](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/check-or-add-an-object-library-reference).
