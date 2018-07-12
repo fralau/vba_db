@@ -9,7 +9,7 @@ out in a way that they could be used by others.
 
 There are actually things that you can do, with this set of modules:
 
-1. **Databases**: Use rows from tables, as everyone in their right mind would do today: as dictionaries.
+1. **Databases**: Use rows from tables/queries as dictionaries (as everyone in their right mind would do today); easily establish connections and compose queries for Access, SQLServer,Oracle, and MySQL!
 2. **RegExp2**: Using regexps in your application easily.
 2. **Parameter**: How about a little parameter table for your app, with all whistles and bells?
 
