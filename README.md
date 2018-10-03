@@ -21,3 +21,7 @@ Nothing fancy here:
 3. From File menu, choose Import and select the file you want import
 4. Set up the libraries you need (they are indicated in the header of your module): from the Tools menu, choose References to display the
    References dialog box (see more information on [Microsoft Dev Center](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/check-or-add-an-object-library-reference).
+
+## Wiki
+
+For a description of the API, and usage examples, [see the wiki pages](https://github.com/fralau/vba_db/wiki).
